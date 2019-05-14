@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "678550161342",
+    "firebase_url": "https://my-test-project0414.firebaseio.com",
+    "project_id": "my-test-project0414",
+    "storage_bucket": "my-test-project0414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678550161342:android:382d35a7d3d19730",
+        "android_client_info": {
+          "package_name": "kang.kangtest.kang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678550161342-0ocom0l7gpctpf51cninb04ebu2tfif9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinRUGF5bcmnE1rG_PoYsFovyAuVv3rdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678550161342-0ocom0l7gpctpf51cninb04ebu2tfif9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678550161342:android:f7c70bae991f06e0",
+        "android_client_info": {
+          "package_name": "kang.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678550161342-0ocom0l7gpctpf51cninb04ebu2tfif9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinRUGF5bcmnE1rG_PoYsFovyAuVv3rdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678550161342-0ocom0l7gpctpf51cninb04ebu2tfif9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
